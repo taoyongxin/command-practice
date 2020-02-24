@@ -23,3 +23,13 @@ git push:提交
 
 
 # 6. MySQL命令
+
+create database h_test ：创建数据库
+
+show databases ：查看数据库
+
+net start mysql ：开启mysql服务
+
+net stop  mysql ：关闭mysql服务
+
+set password  = password('123456') ：修改登录密码
