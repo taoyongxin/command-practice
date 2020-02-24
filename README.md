@@ -12,6 +12,12 @@ git push:提交
 
 # 2. Maven命令
 
+### mvn clean 清空
+### mvn compile 编译
+### mvn test  运行测试
+### mvn site  生成站点目录
+### mvn test-compile 编译测试程序
+
 # 3. NPM命令
 
 ## 1.npm install
