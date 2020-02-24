@@ -14,6 +14,12 @@ git push:提交
 
 # 3. NPM命令
 
+## 1.npm install
+
+## 2.npm run serve
+
+
+
 # 4. Windows命令
 
 
