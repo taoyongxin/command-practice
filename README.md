@@ -32,6 +32,6 @@ git push:提交
 
 # 5. Linux命令
 
-
+### mkdir — Make Directory（mkdir 用于新建一个新目录）
 
 # 6. MySQL命令
