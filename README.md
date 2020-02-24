@@ -14,6 +14,13 @@ git push:提交
 
 # 3. NPM命令
 
+- npm help：查看NPM命令
+- npm init：初始化一个基于node的项目
+- npm install 模块名 -g：全局安装某个模块
+- npm root -g：查看全局安装的目录
+- npm uninstall -g ：卸载模块
+- npm update 模块名： 更名模块
+
 # 4. Windows命令
 
 
